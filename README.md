@@ -1,4 +1,8 @@
-![Workflow of Data Space and Privacy Disclosure]([/assets/img/philly-magic-garden.jpg](https://github.com/caict-4iot-dev/Data-Space-and-Privacy-Disclosure/raw/refs/heads/main/WorkflowDataSpaceandPrivacyDisclosure.jpg) "Workflow of Data Space and Privacy Disclosure")
+
+
+![Workflow of Data Space and Privacy Disclosure](https://raw.githubusercontent.com/caict-4iot-dev/Data-Space-and-Privacy-Disclosure/refs/heads/main/WorkflowDataSpaceandPrivacyDisclosure.jpg  "Workflow of Data Space and Privacy Disclosure")
+
+
 
 ## Inspiration
 
