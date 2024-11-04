@@ -68,6 +68,8 @@ We will make improvements in the following three areas:
 2. Research methods to generate and verify proofs more efficiently, enabling the system to support large-scale applications;
 3. Support multiple TEE hardware options to offer developers greater flexibility.
 
+##  Built with
+javascript、rust、sd-jwt、snarkjs、vc、veramo、zkp
 
 ## "Try it out" links
 
